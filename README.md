@@ -32,4 +32,7 @@ Po prostu go **uwielbiam**
   print("karol")
   echo "karol"
   return 1==1
-  ```
+```
+
+
+w python ``print("")`` printuje
