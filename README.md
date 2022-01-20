@@ -33,6 +33,7 @@ Po prostu go **uwielbiam**
   echo "karol"
   return 1==1
 ```
+![Tux, the Linux mascot](/assets/images/tux.png)
 
 
 w python ``print("")`` printuje
